@@ -1,6 +1,5 @@
 import FormData from "form-data";
 import axios from "axios";
-import path from "path";
 import fs from "fs";
 
 // insert personal api key below
